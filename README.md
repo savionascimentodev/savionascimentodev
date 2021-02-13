@@ -79,8 +79,8 @@
 </div>
 
 <!--My gifs-->
-<img align="left" src="https://github.com/savionascimentodev/Projeto-Site/blob/main/imagens/ND.gif" width="300" height="310" alt="Minimalist">
-<img align="right" src="https://github.com/savionascimentodev/Projeto-Site/blob/main/imagens/MegaFury%20(1).gif" width="300" height="310" alt="Blue Fire">
+<img align="left" src="https://github.com/savionascimentodev/Projeto-Site/blob/main/img/ND.gif" width="300" height="310" alt="Minimalist">
+<img align="right" src="https://github.com/savionascimentodev/Projeto-Site/blob/main/img/MegaFury%20(1).gif" width="300" height="310" alt="Blue Fire">
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
