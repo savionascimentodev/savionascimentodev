@@ -21,7 +21,7 @@
 
 <p align=center>
   
-[![card](https://github-readme-stats.vercel.app/api?username=savionascimentodev&theme=gotham)](https://github.com/savionascimentodev/)
+[![card](https://github-readme-stats.vercel.app/api?username=savionascimentodev&theme=gotham)](https://github.com/savionascimentodev/)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savionascimentodev&theme=gotham&langs_count=5)](https://github.com/savionascimentodev/github-readme-stats)
 
 </p>
