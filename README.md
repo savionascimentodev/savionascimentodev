@@ -44,16 +44,48 @@
 <br><br><br><br><br><br><br><br>
 <hr>
 
-## 🌐 Frontend
+<!--My gifs-->
+<img align="right" src="https://github.com/savionascimentodev/Projeto-Site/blob/main/Img/MegaFury%20(1).gif" width="300" height="310" alt="Blue Fire">
 
-* ![HTML5](https://img.shields.io/badge/-HTML5-F06426?style=flat-square&logoColor=fff&logo=HTML5)
-* ![CSS3](https://img.shields.io/badge/-CSS3-5DAFEF?style=flat-square&logoColor=fff&logo=CSS3)
-* ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat-square&logoColor=fff&logo=javascript)
+<details open>
+<summary>
+  <strong>⚙ Tecnologias</strong>
+</summary>
+<br>
 
-## 🛠 Languages 
+![HTML5](https://img.shields.io/badge/-HTML5-060606?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-060606?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-060606?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-060606?style=flat&logo=PHP)
+![SQL](https://img.shields.io/badge/-SQL-060606?style=flat&logo=MySQL)
 
-* ![C Programming](https://img.shields.io/badge/-C%20-1A2629?style=flat-square&logoColor=fff&logo=C)
-* ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat-square&logoColor=fff&logo=javascript)
+</details>
+
+<details open>
+<summary>
+  <strong>🛠 Ferramentas</strong>
+</summary>
+<br>
+
+![Git](https://img.shields.io/badge/-Git-060606?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-060606?style=flat&logo=GitHub)
+![MongoDB](https://img.shields.io/badge/-MongoDB-060606?style=flat&logo=mongodb)
+![Figma](https://img.shields.io/badge/-Figma-060606?style=flat&logo=Figma)
+![PHPMyAdmin](https://img.shields.io/badge/-phpMyAdmin-060606?style=flat&logo=phpMyAdmin)
+
+</details>
+
+<details open>
+<summary>
+<strong>📝 Pretendo aprender</strong>
+</summary>
+<br>
+
+![React](https://img.shields.io/badge/-React-060606?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-Typescript-060606?style=flat&logo=typescript)
+![Node](https://img.shields.io/badge/-NodeJS-060606?style=flat&logo=node.js)
+
+</details>
 
 ## 💻 System
 | Editores  |  S.O   | 
@@ -63,9 +95,6 @@
 ## 🏆 Trófeus 
 
 <a href="https://github.com/savionascimentodev/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=savionascimentodev&theme=nord" alt="Github stats"/> </a>
-
-<!--My gifs-->
-<img align="right" src="https://github.com/savionascimentodev/Projeto-Site/blob/main/Img/MegaFury%20(1).gif" width="300" height="310" alt="Blue Fire">
 
 <hr>
 
