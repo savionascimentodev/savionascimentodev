@@ -69,7 +69,6 @@
 </div>
 
 <!--My gifs-->
-<img align="left" src="https://github.com/savionascimentodev/Projeto-Site/blob/main/Img/ND.gif" width="300" height="310" alt="Minimalist">
 <img align="right" src="https://github.com/savionascimentodev/Projeto-Site/blob/main/Img/MegaFury%20(1).gif" width="300" height="310" alt="Blue Fire">
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
