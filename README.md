@@ -14,7 +14,6 @@
 - 🎉 <strong>17/10/2001</strong>
 - 🎓 Cursando <strong>Engenharia de Software</strong>
 - 🌱 Atualmente aprendendo <strong>JavaScript para futuramente construir aplicações web completas e aplicativos.</strong>
-- 💬 Linguagens de programação <strong>C, JavaScript</strong>
 <!-- 📝 [Curriculum Vitae]()-->
 
 ## &#x1f4c8; GitHub Stats ⭐
@@ -56,13 +55,6 @@
 * ![C Programming](https://img.shields.io/badge/-C%20-1A2629?style=flat-square&logoColor=fff&logo=C)
 * ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat-square&logoColor=fff&logo=javascript)
 
-## 📖 Livros 
-
-- [Favorito:](#) <strong>Deuses Americanos</strong>
-- [Ultimo lido:](#) <strong>Como convecer alguém em 90 segundos</strong>
-- [Lendo:](#) <strong>Deus um Delírio</strong>
-
-
 ## 💻 System
 | Editores  |  S.O   | 
 :------------ | ------------:
@@ -88,12 +80,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/-SavioNascimento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/savio-nascimento)](https://www.linkedin.com/in/savio-nascimento/) 
 [![Twitter Badge](https://img.shields.io/badge/-@Nascimentoo-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Nascimento_oo)](https://twitter.com/Nascimento_oo)
 [![Gmail Badge](https://img.shields.io/badge/-savionascimento@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=gmail:savionascimentodev@gmail.com)](gmail:savionascimentodev@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-SavioNascimento-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://https://www.instagram.com/savio_nascimento_/)](https://www.instagram.com/savio_nascimento_/)
 [![Github Badge](https://img.shields.io/badge/SavioNascimento-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/savionascimentodev)](https://github.com/savionascimentodev)
+
+<!--
+[![Instagram Badge](https://img.shields.io/badge/-SavioNascimento-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://https://www.instagram.com/savio_nascimento_/)](https://www.instagram.com/savio_nascimento_/)-->
 
 </div>
 
-[![GitHub](https://img.shields.io/static/v1?label=Overview&message=SavioNascimento&color=f8efd4&style=for-the-badge&logo=GitHub&link=https://github.com/savionascimentodev)](https://github.com/savionascimentodev)<br>
+<!--
+[![GitHub](https://img.shields.io/static/v1?label=Overview&message=SavioNascimento&color=f8efd4&style=for-the-badge&logo=GitHub&link=https://github.com/savionascimentodev)](https://github.com/savionascimentodev)<br> -->
 
 <div align="right">
   
