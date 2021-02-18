@@ -79,8 +79,7 @@
 
 <p align=center>
   
-[![card](https://github-readme-stats.vercel.app/api?username=savionascimentodev&theme=gotham)](https://github.com/savionascimentodev/)<br>
-<img src="https://github-readme-stats.vercel.app/api?username=savionascimentodev&hide=issues&count_private=true&show_icons=true&theme=gotham" />
+<img src="https://github-readme-stats.vercel.app/api?username=savionascimentodev&hide=issues&count_private=true&show_icons=true&theme=gotham"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savionascimentodev&theme=gotham&langs_count=5)](https://github.com/savionascimentodev/github-readme-stats)
 
