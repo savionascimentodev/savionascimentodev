@@ -15,7 +15,7 @@
 - 🌱 Atualmente aprendendo <strong>JavaScript para futuramente construir aplicações web completas e aplicativos.</strong>
 <!-- 📝 [Curriculum Vitae]()-->
 
-## 💼 My Skills
+## 💼 Skills
 
 <details>
 <summary>
@@ -56,19 +56,7 @@
 
 </details>
 
-## &#x1f4c8; GitHub Stats ⭐
-
-<!--My gifs-->
-<img align="right" src="https://github.com/savionascimentodev/Projeto-Site/blob/main/Img/MegaFury%20(1).gif" width="300" height="310" alt="Blue Fire">
-
-<p align=center>
-  
-[![card](https://github-readme-stats.vercel.app/api?username=savionascimentodev&theme=gotham)](https://github.com/savionascimentodev/)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savionascimentodev&theme=gotham&langs_count=5)](https://github.com/savionascimentodev/github-readme-stats)
-
-</p>
-
-## 📁 Repositories
+## 📁 Repositórios Favoritos
 
 <p width="100%" align="center">
   <a align="left" href="https://github.com/savionascimentodev/Cascating-Style-Sheets" title="Cascating-Style-Sheets">
@@ -86,6 +74,18 @@
 </p>
 <br><br><br><br><br><br><br><br>
 <hr>
+
+## &#x1f4c8; GitHub Stats ⭐
+
+<!--My gifs-->
+<img align="right" src="https://github.com/savionascimentodev/Projeto-Site/blob/main/Img/MegaFury%20(1).gif" width="350" height="330" alt="Blue Fire">
+
+<p align=center>
+  
+[![card](https://github-readme-stats.vercel.app/api?username=savionascimentodev&theme=gotham)](https://github.com/savionascimentodev/)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savionascimentodev&theme=gotham&langs_count=5)](https://github.com/savionascimentodev/github-readme-stats)
+
+</p>
 
 ## 💻 System
 | Editores  |  S.O   | 
