@@ -17,10 +17,7 @@
 
 ## 💼 My Skills
 
-<!--My gifs-->
-<img align="right" src="https://github.com/savionascimentodev/Projeto-Site/blob/main/Img/MegaFury%20(1).gif" width="300" height="310" alt="Blue Fire">
-
-<details open>
+<details>
 <summary>
   <strong>⚙ Tecnologias</strong>
 </summary>
@@ -32,7 +29,7 @@
 
 </details>
 
-<details open>
+<details >
 <summary>
   <strong>🛠 Ferramentas</strong>
 </summary>
@@ -43,7 +40,7 @@
 
 </details>
 
-<details open>
+<details >
 <summary>
 <strong>📝 Pretendo aprender</strong>
 </summary>
@@ -60,6 +57,9 @@
 </details>
 
 ## &#x1f4c8; GitHub Stats ⭐
+
+<!--My gifs-->
+<img align="right" src="https://github.com/savionascimentodev/Projeto-Site/blob/main/Img/MegaFury%20(1).gif" width="300" height="310" alt="Blue Fire">
 
 <p align=center>
   
@@ -115,6 +115,5 @@
 
 <div align="right">
   
-![visitor](https://visitor-badge.glitch.me/badge?page_id=savionascimentodev.savionascimentodev) ![last-commit](https://img.shields.io/github/last-commit/savionascimentodev/savionascimentodev) ![repo-size](https://img.shields.io/github/repo-size/savionascimentodev/savionascimentodev?&color=lightgrey)
-
+![visitor](https://visitor-badge.glitch.me/badge?page_id=savionascimentodev.savionascimentodev) ![last-commit](https://img.shields.io/github/last-commit/savionascimentodev/savionascimentodev) 
 </div>
