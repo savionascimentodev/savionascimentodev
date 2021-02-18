@@ -15,6 +15,50 @@
 - 🌱 Atualmente aprendendo <strong>JavaScript para futuramente construir aplicações web completas e aplicativos.</strong>
 <!-- 📝 [Curriculum Vitae]()-->
 
+## 💼 My Skills
+
+<!--My gifs-->
+<img align="right" src="https://github.com/savionascimentodev/Projeto-Site/blob/main/Img/MegaFury%20(1).gif" width="300" height="310" alt="Blue Fire">
+
+<details open>
+<summary>
+  <strong>⚙ Tecnologias</strong>
+</summary>
+<br>
+
+![HTML5](https://img.shields.io/badge/-HTML5-060606?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-060606?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-060606?style=flat&logo=javascript)
+
+</details>
+
+<details open>
+<summary>
+  <strong>🛠 Ferramentas</strong>
+</summary>
+<br>
+
+![Git](https://img.shields.io/badge/-Git-060606?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-060606?style=flat&logo=GitHub)
+
+</details>
+
+<details open>
+<summary>
+<strong>📝 Pretendo aprender</strong>
+</summary>
+<br>
+
+![React](https://img.shields.io/badge/-React-060606?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-Typescript-060606?style=flat&logo=typescript)
+![Node](https://img.shields.io/badge/-NodeJS-060606?style=flat&logo=node.js)
+![PHP](https://img.shields.io/badge/-PHP-060606?style=flat&logo=PHP)
+![SQL](https://img.shields.io/badge/-SQL-060606?style=flat&logo=MySQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-060606?style=flat&logo=mongodb)
+![Figma](https://img.shields.io/badge/-Figma-060606?style=flat&logo=Figma)
+
+</details>
+
 ## &#x1f4c8; GitHub Stats ⭐
 
 <p align=center>
@@ -42,49 +86,6 @@
 </p>
 <br><br><br><br><br><br><br><br>
 <hr>
-
-<!--My gifs-->
-<img align="right" src="https://github.com/savionascimentodev/Projeto-Site/blob/main/Img/MegaFury%20(1).gif" width="300" height="310" alt="Blue Fire">
-
-<details open>
-<summary>
-  <strong>⚙ Tecnologias</strong>
-</summary>
-<br>
-
-![HTML5](https://img.shields.io/badge/-HTML5-060606?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-060606?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-060606?style=flat&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-060606?style=flat&logo=PHP)
-![SQL](https://img.shields.io/badge/-SQL-060606?style=flat&logo=MySQL)
-
-</details>
-
-<details open>
-<summary>
-  <strong>🛠 Ferramentas</strong>
-</summary>
-<br>
-
-![Git](https://img.shields.io/badge/-Git-060606?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-060606?style=flat&logo=GitHub)
-![MongoDB](https://img.shields.io/badge/-MongoDB-060606?style=flat&logo=mongodb)
-![Figma](https://img.shields.io/badge/-Figma-060606?style=flat&logo=Figma)
-![PHPMyAdmin](https://img.shields.io/badge/-phpMyAdmin-060606?style=flat&logo=phpMyAdmin)
-
-</details>
-
-<details open>
-<summary>
-<strong>📝 Pretendo aprender</strong>
-</summary>
-<br>
-
-![React](https://img.shields.io/badge/-React-060606?style=flat&logo=react)
-![TypeScript](https://img.shields.io/badge/-Typescript-060606?style=flat&logo=typescript)
-![Node](https://img.shields.io/badge/-NodeJS-060606?style=flat&logo=node.js)
-
-</details>
 
 ## 💻 System
 | Editores  |  S.O   | 
