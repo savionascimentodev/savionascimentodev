@@ -77,9 +77,6 @@
 
 ## &#x1f4c8; GitHub Stats ⭐
 
-<!--My gifs-->
-<img align="right" src="https://github.com/savionascimentodev/Projeto-Site/blob/main/Img/MegaFury%20(1).gif" width="350" height="330" alt="Blue Fire">
-
 <p align=center>
   
 [![card](https://github-readme-stats.vercel.app/api?username=savionascimentodev&theme=gotham)](https://github.com/savionascimentodev/)<br>
