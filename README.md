@@ -1,8 +1,7 @@
 <h1 align="center"> Hey guys 👋🏽, I'm Savio Nascimento  👨🏽‍💻  </h1>
 
 <div align="right">
-  
-![](https://komarev.com/ghpvc/?username=savionascimentodev&style=flat) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+ 
 
 </div>
 
