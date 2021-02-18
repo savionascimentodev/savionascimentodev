@@ -76,14 +76,10 @@
 <hr>
 
 ## &#x1f4c8; GitHub Stats ⭐
-
-<p align=center>
   
-<img src="https://github-readme-stats.vercel.app/api?username=savionascimentodev&hide=issues&count_private=true&show_icons=true&theme=gotham"/>
+<img src="https://github-readme-stats.vercel.app/api?username=savionascimentodev&hide=issues&count_private=true&show_icons=true&theme=gotham">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savionascimentodev&theme=gotham&langs_count=5)](https://github.com/savionascimentodev/github-readme-stats)
-
-</p>
 
 ## 💻 System
 | Editores  |  S.O   | 
