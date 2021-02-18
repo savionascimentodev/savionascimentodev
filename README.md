@@ -64,14 +64,9 @@
 
 <a href="https://github.com/savionascimentodev/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=savionascimentodev&theme=nord" alt="Github stats"/> </a>
 
-<hr>
-
-</div>
-
 <!--My gifs-->
 <img align="right" src="https://github.com/savionascimentodev/Projeto-Site/blob/main/Img/MegaFury%20(1).gif" width="300" height="310" alt="Blue Fire">
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 <div align="center">
