@@ -69,7 +69,7 @@
 
 <p width="100%" align="center">
   <a align="left" href="https://github.com/savionascimentodev/Html-Css-JavaScript" title="Html-Css-JavaCript">
-   <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=savionascimentodev&repo=Html-Css-JavaScript&theme=gotham"></a>
+   <img align="left" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=savionascimentodev&repo=Html-Css-JavaScript&theme=gotham"></a>
   <a align="right" href="https://github.com/savionascimentodev/Projeto-Site" title="Projeto-Site">
    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=savionascimentodev&repo=Projeto-Site&theme=gotham"></a>
 </p>
