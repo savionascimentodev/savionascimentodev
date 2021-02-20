@@ -59,11 +59,12 @@
 ## 📁 Repositórios Favoritos
 
 <p width="100%" align="center">
+  <a align="right" href="https://github.com/savionascimentodev/MaratonaDiscover" title="MaratonaDiscover">
+   <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=savionascimentodev&repo=C&theme=gotham"></a>
   <a align="left" href="https://github.com/savionascimentodev/Cascating-Style-Sheets" title="Cascating-Style-Sheets">
    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=savionascimentodev&repo=Cascating-Style-Sheets&theme=gotham"></a>
-  <a align="right" href="https://github.com/savionascimentodev/C" title="C">
-  <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=savionascimentodev&repo=C&theme=gotham"></a>
 </p>
+
 <br><br>
 
 <p width="100%" align="center">
