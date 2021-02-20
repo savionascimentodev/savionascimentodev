@@ -56,26 +56,6 @@
 
 </details>
 
-## 📁 Repositórios Favoritos
-
-<p width="100%" align="center">
-  <a align="right" href="https://github.com/savionascimentodev/Cascating-Style-Sheets" title="Cascating-Style-Sheets">
-   <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=savionascimentodev&repo=Cascating-Style-Sheets&theme=gotham"></a>
-  <a align="left" href="https://github.com/savionascimentodev/MaratonaDiscover" title="MaratonaDiscover">
-   <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=savionascimentodev&repo=MaratonaDiscover&theme=gotham"></a>
-</p>
-
-<br><br>
-
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/savionascimentodev/Html-Css-JavaScript" title="Html-Css-JavaCript">
-   <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=savionascimentodev&repo=Html-Css-JavaScript&theme=gotham"></a>
-  <a align="right" href="https://github.com/savionascimentodev/Projeto-Site" title="Projeto-Site">
-   <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=savionascimentodev&repo=Projeto-Site&theme=gotham"></a>
-</p>
-<br><br><br><br><br><br><br><br>
-<hr>
-
 ## &#x1f4c8; GitHub Stats ⭐
   
 <img src="https://github-readme-stats.vercel.app/api?username=savionascimentodev&hide=issues&count_private=true&show_icons=true&theme=gotham">
