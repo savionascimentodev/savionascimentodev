@@ -62,7 +62,7 @@
   <a align="left" href="https://github.com/savionascimentodev/Cascating-Style-Sheets" title="Cascating-Style-Sheets">
    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=savionascimentodev&repo=Cascating-Style-Sheets&theme=gotham"></a>
   <a align="right" href="https://github.com/savionascimentodev/MaratonaDiscover" title="MaratonaDiscover">
-   <img align="right" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=savionascimentodev&repo=MaratonaDiscover&theme=gotham"></a>
+   <img align="right" height="134" src="https://github-readme-stats.vercel.app/api/pin/?username=savionascimentodev&repo=MaratonaDiscover&theme=gotham"></a>
 </p>
 
 <br><br>
