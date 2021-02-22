@@ -58,21 +58,17 @@
 
 ## &#x1f4c8; GitHub Stats ⭐
 
-[![card](https://github-readme-stats.vercel.app/api?username=savionascimentodev&theme=gotham)](https://github.com/savionascimentodev/)
-
-
 <a href="https://github.com/savionascimentodev">
-  <img align="left"  height='200px' src="https://github-readme-stats.vercel.app/api?username=savionascimentodev&show_icons=true&theme=dark" />
+  <img align="left"  height='180px' src="https://github-readme-stats.vercel.app/api?username=savionascimentodev&show_icons=true&theme=dark" />
 </a>
 
 <a href="https://github.com/savionascimentodev">
-  <img align="center" height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=savionascimentodev&langs_count=5&theme=dark" />
+  <img align="center" height='180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=savionascimentodev&langs_count=5&theme=dark" />
 </a>
+
 <br>
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savionascimentodev&theme=gotham&langs_count=5)](https://github.com/savionascimentodev/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savionascimentodev&theme=gotham&langs_count=5)](https://github.com/savionascimentodev/github-readme-stats) -->
 
 ## 💻 System
 | Editores  |  S.O | 
