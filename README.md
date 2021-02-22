@@ -62,11 +62,11 @@
 
 
 <a href="https://github.com/savionascimentodev">
-  <img align="left"  height='150px' src="https://github-readme-stats.vercel.app/api?username=savionascimentodev&show_icons=true&theme=dark" />
+  <img align="left"  height='200px' src="https://github-readme-stats.vercel.app/api?username=savionascimentodev&show_icons=true&theme=dark" />
 </a>
 
 <a href="https://github.com/savionascimentodev">
-  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=savionascimentodev&langs_count=5&theme=dark" />
+  <img align="center" height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=savionascimentodev&langs_count=5&theme=dark" />
 </a>
 <br>
 
