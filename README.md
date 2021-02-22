@@ -63,7 +63,7 @@
 </a>
 
 <a href="https://github.com/savionascimentodev">
-  <img align="center" height='145px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=savionascimentodev&layout=compact&theme=dark"/>
+  <img align="center" height='160px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=savionascimentodev&layout=compact&theme=dark"/>
 </a>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savionascimentodev&theme=gotham&langs_count=5)](https://github.com/savionascimentodev/github-readme-stats) -->
