@@ -59,7 +59,7 @@
 ## &#x1f4c8; GitHub Stats ⭐
 
 <a href="https://github.com/savionascimentodev">
-  <img align="left"  height='155px' src="https://github-readme-stats.vercel.app/api?username=savionascimentodev&show_icons=true&theme=dark"/>
+  <img align="left"  height='158px' src="https://github-readme-stats.vercel.app/api?username=savionascimentodev&show_icons=true&theme=dark"/>
 </a>
 
 <a href="https://github.com/savionascimentodev">
@@ -70,7 +70,7 @@
 
 ## 💻 System
 | Editores  | S.O | 
-:------------ | ------------
+------------ | ------------
 |![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)|![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)|
 
 ## 🏆 Trófeus 
