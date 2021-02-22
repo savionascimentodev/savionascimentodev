@@ -66,12 +66,10 @@
   <img align="center" height='180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=savionascimentodev&layout=compact&theme=dark"/>
 </a>
 
-<br>
-
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savionascimentodev&theme=gotham&langs_count=5)](https://github.com/savionascimentodev/github-readme-stats) -->
 
 ## 💻 System
-| Editores  |S.O| 
+| Editores  | S.O | 
 :------------ | ------------:
 |![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)|![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)|
 
