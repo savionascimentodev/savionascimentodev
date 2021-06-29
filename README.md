@@ -12,7 +12,7 @@
 - 🔭 <strong>Savio Ludovico Melo do Nascimento </strong>🇧🇷
 - 🎉 <strong>17/10/2001</strong>
 - 🎓 Cursando <strong>Engenharia de Software</strong>
-- 🌱 Atualmente aprendendo <strong>JavaScript para futuramente construir aplicações web completas e aplicativos.</strong>
+- 🌱 Atualmente trabalhando como <strong>Desenvolvedor Júnior</strong> na <strong>TBDC Agro Software</strong>
 <!-- 📝 [Curriculum Vitae]()-->
 
 ## 💼 Skills
