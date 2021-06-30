@@ -99,3 +99,5 @@
   
 ![visitor](https://visitor-badge.glitch.me/badge?page_id=savionascimentodev.savionascimentodev) ![last-commit](https://img.shields.io/github/last-commit/savionascimentodev/savionascimentodev) 
 </div>
+
+  ![Snake animation](https://github.com/savionascimentodev/savionascimentodev/blob/output/github-contribution-grid-snake.svg)
