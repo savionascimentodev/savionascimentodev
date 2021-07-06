@@ -26,7 +26,9 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-060606?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-060606?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-060606?style=flat&logo=javascript)
-
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
+ 
 </details>
 
 <details >
@@ -52,6 +54,19 @@
 ![PHP](https://img.shields.io/badge/-PHP-060606?style=flat&logo=PHP)
 ![SQL](https://img.shields.io/badge/-SQL-060606?style=flat&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-060606?style=flat&logo=mongodb)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=flat&logo=Insomnia&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
+![MaterialUi](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
+![NuxtJs](https://img.shields.io/badge/nuxt.js-00C58E?style=flat&logo=nuxtdotjs&logoColor=white)
+![NextJs](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![Strapi](https://img.shields.io/badge/strapi-2e7eea?style=flat&logo=strapi&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
+![ReactiveNative](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Figma](https://img.shields.io/badge/-Figma-060606?style=flat&logo=Figma)
 
 </details>
@@ -75,9 +90,13 @@
 
 ## 🏆 Trófeus 
 
-<a href="https://github.com/savionascimentodev/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=savionascimentodev&theme=nord" alt="Github stats"/> </a>
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=savionascimentodev&row=1)](https://github.com/savionascimentodev/github-profile-trophy)
+
 
 <hr>
+
+![Snake animation](https://github.com/savionascimentodev/savionascimentodev/blob/output/github-contribution-grid-snake.svg)
+
 
 <div align="center">
   
@@ -91,8 +110,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-SavioNascimento-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://https://www.instagram.com/savio_nascimento_/)](https://www.instagram.com/savio_nascimento_/) -->
 
 </div>
-
-  ![Snake animation](https://github.com/savionascimentodev/savionascimentodev/blob/output/github-contribution-grid-snake.svg)
   
 <!--
 [![GitHub](https://img.shields.io/static/v1?label=Overview&message=SavioNascimento&color=f8efd4&style=for-the-badge&logo=GitHub&link=https://github.com/savionascimentodev)](https://github.com/savionascimentodev)<br> -->
