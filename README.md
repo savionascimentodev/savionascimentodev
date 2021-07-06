@@ -59,11 +59,11 @@
 ## &#x1f4c8; GitHub Stats ⭐
 
 <a href="https://github.com/savionascimentodev">
-  <img align="left"  height='160px' src="https://github-readme-stats.vercel.app/api?username=savionascimentodev&show_icons=true&theme=dark"/>
+  <img align="left"  height='160px' src="https://github-readme-stats.vercel.app/api?username=savionascimentodev&show_icons=true&theme=gotham"/>
 </a>
 
 <a href="https://github.com/savionascimentodev">
-  <img align="center" height='160px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=savionascimentodev&layout=compact&theme=dark"/>
+  <img align="center" height='160px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=savionascimentodev&layout=compact&theme=gotham"/>
 </a>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savionascimentodev&theme=gotham&langs_count=5)](https://github.com/savionascimentodev/github-readme-stats) -->
@@ -92,6 +92,8 @@
 
 </div>
 
+  ![Snake animation](https://github.com/savionascimentodev/savionascimentodev/blob/output/github-contribution-grid-snake.svg)
+  
 <!--
 [![GitHub](https://img.shields.io/static/v1?label=Overview&message=SavioNascimento&color=f8efd4&style=for-the-badge&logo=GitHub&link=https://github.com/savionascimentodev)](https://github.com/savionascimentodev)<br> -->
 
@@ -99,5 +101,3 @@
   
 ![visitor](https://visitor-badge.glitch.me/badge?page_id=savionascimentodev.savionascimentodev) ![last-commit](https://img.shields.io/github/last-commit/savionascimentodev/savionascimentodev) 
 </div>
-
-  ![Snake animation](https://github.com/savionascimentodev/blob/output/github-contribution-grid-snake.svg)
