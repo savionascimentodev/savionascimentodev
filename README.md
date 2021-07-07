@@ -23,9 +23,9 @@
 </summary>
 <br>
 
-![HTML5](https://img.shields.io/badge/-HTML5-060606?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-060606?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-060606?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
  
