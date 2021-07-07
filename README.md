@@ -37,8 +37,8 @@
 </summary>
 <br>
 
-![Git](https://img.shields.io/badge/-Git-060606?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-060606?style=flat&logo=GitHub)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 
 </details>
 
@@ -48,13 +48,14 @@
 </summary>
 <br>
 
-![React](https://img.shields.io/badge/-React-060606?style=flat&logo=react)
-![TypeScript](https://img.shields.io/badge/-Typescript-060606?style=flat&logo=typescript)
-![Node](https://img.shields.io/badge/-NodeJS-060606?style=flat&logo=node.js)
-![PHP](https://img.shields.io/badge/-PHP-060606?style=flat&logo=PHP)
-![SQL](https://img.shields.io/badge/-SQL-060606?style=flat&logo=MySQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-060606?style=flat&logo=mongodb)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=flat&logo=Insomnia&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
