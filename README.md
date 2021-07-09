@@ -1,7 +1,6 @@
 <h1 align="center"> Hey guys 👋🏽, I'm Savio Nascimento  👨🏽‍💻  </h1>
 
 <div align="right">
- 
 
 </div>
 
@@ -49,7 +48,7 @@
 </summary>
 <br>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Reac](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
@@ -94,7 +93,6 @@
 ## 🏆 Trófeus 
 
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=savionascimentodev&row=1)](https://github.com/savionascimentodev/github-profile-trophy)
-
 
 <hr>
 
