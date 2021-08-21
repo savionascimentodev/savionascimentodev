@@ -116,6 +116,5 @@
 [![GitHub](https://img.shields.io/static/v1?label=Overview&message=SavioNascimento&color=f8efd4&style=for-the-badge&logo=GitHub&link=https://github.com/savionascimentodev)](https://github.com/savionascimentodev)<br> -->
 
 <div align="right">
-  
-![visitor](https://visitor-badge.glitch.me/badge?page_id=savionascimentodev.savionascimentodev) ![last-commit](https://img.shields.io/github/last-commit/savionascimentodev/savionascimentodev) 
+ 
 </div>
