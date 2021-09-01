@@ -29,6 +29,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white)
  
 </details>
 
@@ -41,7 +42,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
-
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
 </details>
 
 <details >
@@ -70,6 +72,13 @@
 ![ReactiveNative](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Figma](https://img.shields.io/badge/-Figma-060606?style=flat&logo=Figma)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
+![Buefy](https://img.shields.io/badge/Buefy-7957D5?style=flat&logo=buefy&logoColor=48289E)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black)
+![Graphql](https://img.shields.io/badge/GraphQl-E10098?style=flat&logo=graphql&logoColor=white)
 
 </details>
 
@@ -85,10 +94,17 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savionascimentodev&theme=gotham&langs_count=5)](https://github.com/savionascimentodev/github-readme-stats) -->
 
+---
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=savionascimentodev)
+
+
 ## 💻 System
-| Editores  | S.O | 
------------- | ------------
-|![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)|![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)|
+| Editores  | S.O | Navegadores
+------------ | ------------ | ------------ 
+|![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)|![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)| ![Brave](https://img.shields.io/badge/Brave-FB542B?style=flat&logo=Brave&logoColor=white) ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=flat&logo=Vivaldi&logoColor=white) ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat&logo=GoogleChrome&logoColor=white)
+
+
 
 ## 🏆 Trófeus 
 
@@ -113,7 +129,7 @@
 </div>
   
 <!--
-[![GitHub](https://img.shields.io/static/v1?label=Overview&message=SavioNascimento&color=f8efd4&style=for-the-badge&logo=GitHub&link=https://github.com/savionascimentodev)](https://github.com/savionascimentodev)<br> -->
+[![GitHub](https://img.shields.io/static/v1?label=Overview&message=SavioNascimento&color=f8efd4&style=flat&logo=GitHub&link=https://github.com/savionascimentodev)](https://github.com/savionascimentodev)<br> -->
 
 <div align="right">
  
