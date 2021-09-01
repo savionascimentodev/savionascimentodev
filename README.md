@@ -8,10 +8,12 @@
 
 ## ⚜️ Uma breve apresentação sobre mim
 
-- 🔭 <strong>Savio Ludovico Melo do Nascimento </strong>🇧🇷
-- 🎉 <strong>17/10/2001</strong>
+- 🔭 **Savio Ludovico Melo do Nascimento** 🇧🇷
+- 🎉 **17/10/2001**
 - 🎓 Cursando <strong>Engenharia de Software</strong>
 - 🌱 Atualmente trabalhando como <strong>Desenvolvedor Júnior</strong> na <strong>TBDC Agro Software</strong>
+- 🏀 **Hobbies**: Ler, jogar basquete 
+- 📚 Jovem dedicado e esforçado gosto de sempre estar aprendendo coisas novas e estudando meios de como resolver problemas.
 <!-- 📝 [Curriculum Vitae]()-->
 
 ## 💼 Skills
