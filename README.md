@@ -6,21 +6,21 @@
 
 <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="150" align="right" >
 
-## ⚜️ Uma breve apresentação sobre mim
+## ⚜️ A short presentation about me
 
 - 🔭 **Savio Ludovico Melo do Nascimento** 🇧🇷
 - 🎉 **17/10/2001**
-- 🎓 Cursando <strong>Engenharia de Software</strong>
-- 🌱 Atualmente trabalhando como <strong>Desenvolvedor Júnior</strong> na <strong>TBDC Agro Software</strong>
-- 🏀 **Hobbies**: Ler, jogar basquete 
-- 📚 Jovem dedicado e esforçado gosto de sempre estar aprendendo coisas novas e estudando meios de como resolver problemas.
+- 🎓 Studying **Software Engineering**
+- 🌱 Currently working as **Junior Developer** at **TBDC Agro Software**
+- 🏀 **Hobbies**: Read and train Basketball 
+- 📚 Dedicated and hardworking boy, always looking to be learning new things and studying ways to solve problems.
 <!-- 📝 [Curriculum Vitae]()-->
 
 ## 💼 Skills
 
 <details>
 <summary>
-  <strong>⚙ Tecnologias que tenho experiência</strong>
+  <strong>⚙Technologies that I have experience</strong>
 </summary>
 <br>
 
@@ -37,12 +37,13 @@
 
 <details >
 <summary>
-  <strong>🛠 Ferramentas que tenho experiência</strong>
+  <strong>🛠 Tools I have experience</strong>
 </summary>
 <br>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
@@ -52,7 +53,7 @@
 
 <details >
 <summary>
-<strong>📝 Pretendo aprender</strong>
+<strong>📝 I want to learn</strong>
 </summary>
 <br>
 
@@ -60,7 +61,6 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=flat&logo=Insomnia&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
@@ -101,13 +101,13 @@
 
 
 ## 💻 System
-| Editores  | S.O | Navegadores
+| Code Editor  | S.O | Browsers
 ------------ | ------------ | ------------ 
 |![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)|![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)| ![Brave](https://img.shields.io/badge/Brave-FB542B?style=flat&logo=Brave&logoColor=white) ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=flat&logo=Vivaldi&logoColor=white) ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat&logo=GoogleChrome&logoColor=white)
 
 
 
-## 🏆 Trófeus 
+## 🏆 Trophies 
 
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=savionascimentodev&row=1)](https://github.com/savionascimentodev/github-profile-trophy)
 
