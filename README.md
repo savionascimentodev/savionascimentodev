@@ -10,6 +10,7 @@
 
 - 🔭 **Savio Ludovico Melo do Nascimento** 🇧🇷
 - 🎉 **17/10/2001**
+- 🎂 **19** years
 - 🎓 Studying **Software Engineering**
 - 🌱 Currently working as **Junior Developer** at **TBDC Agro Software**
 - 🏀 **Hobbies**: Read and train Basketball 
