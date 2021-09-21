@@ -92,18 +92,18 @@
 ## &#x1f4c8; GitHub Stats ⭐
 
 <a href="https://github.com/savionascimentodev">
-  <img align="left"  height='160px' src="https://github-readme-stats.vercel.app/api?username=savionascimentodev&show_icons=true&theme=gotham"/>
+  <img align="left"  height='160px' src="https://github-readme-stats.vercel.app/api?username=savionascimentodev&show_icons=true&theme=material-palenight"/>
 </a>
 
 <a href="https://github.com/savionascimentodev">
-  <img align="center" height='160px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=savionascimentodev&layout=compact&theme=gotham"/>
+  <img align="center" height='160px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=savionascimentodev&layout=compact&theme=material-palenight"/>
 </a>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savionascimentodev&theme=gotham&langs_count=5)](https://github.com/savionascimentodev/github-readme-stats) -->
 
 ---
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=savionascimentodev)
+![](https://github-readme-streak-stats.herokuapp.com/?user=savionascimentodev&theme=material-palenight)
 
 
 ## 💻 System
@@ -115,7 +115,7 @@
 
 ## 🏆 Trophies 
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=savionascimentodev&row=1)](https://github.com/savionascimentodev/github-profile-trophy)
+![GithubTrophy](https://github-profile-trophy.vercel.app/?username=savionascimentodev&theme=algolia)
 
 <hr>
 
