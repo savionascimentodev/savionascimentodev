@@ -60,7 +60,6 @@
 <br>
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=vuetify&logoColor=AEDDFF)
@@ -68,12 +67,10 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=flat&logo=Insomnia&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
-![MaterialUi](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
 ![NuxtJs](https://img.shields.io/badge/nuxt.js-00C58E?style=flat&logo=nuxtdotjs&logoColor=white)
 ![Bulma](https://img.shields.io/badge/Bulma-00D1B2.svg?style=flat&logo=Bulma&logoColor=white)
 ![NextJs](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Strapi](https://img.shields.io/badge/strapi-2e7eea?style=flat&logo=strapi&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white)
