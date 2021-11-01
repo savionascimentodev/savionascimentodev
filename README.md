@@ -122,7 +122,7 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-SavioNascimento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/savio-nascimento)](https://www.linkedin.com/in/savio-nascimento/) 
 [![Twitter Badge](https://img.shields.io/badge/@Nascimentoo-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Nascimento_oo)](https://twitter.com/Nascimento_oo)
-[![Gmail Badge](https://img.shields.io/badge/-savionascimento@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=gmail:savionascimentodev@gmail.com)](gmail:savionascimentodev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-savionascimentodev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=gmail:savionascimentodev@gmail.com)](gmail:savionascimentodev@gmail.com)
 [![Github Badge](https://img.shields.io/badge/SavioNascimento-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/savionascimentodev)](https://github.com/savionascimentodev)
 [![Discord badge](https://img.shields.io/badge/-SNascimento%20%23%EF%B8%8F7636-7289DA?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com)](https://discord.com)
 
