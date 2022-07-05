@@ -64,10 +64,11 @@
 <strong>📝 I want to learn</strong>
 </summary>
 <br>
-
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=flat&logo=Insomnia&logoColor=white)
 ![NuxtJs](https://img.shields.io/badge/nuxt.js-00C58E?style=flat&logo=nuxtdotjs&logoColor=white)
