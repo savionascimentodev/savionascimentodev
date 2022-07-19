@@ -12,7 +12,7 @@
 - 🎂 **20** years
 - 🎓 Studying **Software Engineering**
 - 🌱 Currently working as **Junior Developer** at **TBDC Agro Software**
-- 🏀 **Hobbies**: Read and train Basketball 
+- 🏀 **Hobbies**: Read and play Basketball 
 - 📚 Dedicated and hardworking boy, always looking to be learning new things and studying ways to solve problems.
 <!-- 📝 [Curriculum Vitae]()-->
 
