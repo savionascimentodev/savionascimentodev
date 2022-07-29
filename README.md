@@ -3,6 +3,9 @@
 
 </div>
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=savionascimento)](https://github.com/anuraghazra/github-readme-stats)[![Felipe Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=savionascimento&langs_count=5&hide=json,properties,stylus&custom_title=Most%20Used%20Languages&theme=algolia&time_range=last_week)](https://wakatime.com/@felipefialho)
+
+
 <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="150" align="right" >
 
 ## ⚜️ A short presentation about me
