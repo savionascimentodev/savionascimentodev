@@ -12,6 +12,9 @@
 - 🌱 I'm currently looking for a **job**
 - 🏀 **Hobbies**: Read books and play Basketball 
 - 📚 Dedicated and hardworking boy, always looking to be learning new things and studying ways to solve problems.
+- 📖**Currently Studying**:  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+
+
 <!-- 📝 [Curriculum Vitae]()-->
 
 ## 💼 Skills(open the arrows)
