@@ -2,14 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello👋🏽,+my+name+is+Savio+Nascimento;I'm+21+years+old;I'm+from+Brasil,+MT;I+study+Software+Engineering+at+Unicesumar;Welcome!+:%29)](https://git.io/typing-svg)
  
-<!-- <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="150" align="right" > -->
 ## ⚜️ A short presentation about me
 
 - 🔭 **Savio Ludovico Melo do Nascimento** 🇧🇷
 - 🎉 **17/10/2001**
 - 🎂 **21** years
 - 🎓 Studying **Software Engineering**
-- 🌱 I'm currently looking for a **job**
+- 🌱 I'm currently working as a junior Full Stack developer
 - 🏀 **Hobbies**: Read books and play Basketball 
 - 📚 Dedicated and hardworking boy, always looking to be learning new things and studying ways to solve problems.
 - 📖**Currently Studying**:  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white
@@ -42,7 +41,7 @@
  
 </details>
 
-<details >
+<details>
 <summary>
   <strong>🛠 Tools I have experience</strong>
 </summary>
@@ -61,7 +60,7 @@
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=Yarn&logoColor=white)
 </details>
 
-<details >
+<details>
 <summary>
 <strong>📝 I want to learn</strong>
 </summary>
@@ -95,10 +94,28 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savionascimentodev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
  
 [![Savio's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=savionascimentodev&theme=react-dark)](https://github.com/savionascimentodev/github-readme-activity-graph)
- </div>
+</div>
  
 ---
 
+## &#x1f4c8; WakaTime Stats ⭐
+
+<details>
+ <summary>
+  ⚡️ <b> Languages/Frameworks</b>
+ </summary>
+ <img src="https://wakatime.com/share/@savionascimento/1ee1a4b0-6057-4159-9fac-a7d1d53cca6d.svg" width="570"></img>  
+</details>
+
+<details>
+ <summary>
+  💻 <b>Operational System</b>
+ </summary>
+ <img src="https://wakatime.com/share/@savionascimento/a48325eb-f740-46c4-a723-10c841502510.svg" width="570"></img>  
+</details>
+
+
+---
 ## 💻 System
 | Code Editor  | S.O | Browsers
 ------------ | ------------ | ------------ 
