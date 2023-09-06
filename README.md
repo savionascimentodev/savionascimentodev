@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello👋🏽,+my+name+is+Savio+Nascimento;I'm+21+years+old;I'm+from+Brasil,+MT;I+study+Software+Engineering+at+Unicesumar;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello👋🏽,+my+name+is+Savio+Nascimento;I'm+21+years+old;I'm+from+Brazil,+MT;I+study+Software+Engineering+at+Unicesumar;Welcome!+:%29)](https://git.io/typing-svg)
  
 ## ⚜️ A short presentation about me
 
@@ -24,7 +24,7 @@
 
 <details>
 <summary>
-  <strong>⚙Technologies that I have experience</strong>
+  <strong> ⚡ Technologies that I have experience</strong>
 </summary>
 <br>
 
@@ -93,9 +93,7 @@
 <div align="center">
  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=savionascimentodev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Savio Nascimento github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savionascimentodev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
- 
-[![Savio's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=savionascimentodev&theme=react-dark)](https://github.com/savionascimentodev/github-readme-activity-graph)
-</div>
+ </div>
  
 ---
 
@@ -105,7 +103,7 @@
  <summary>
   ⚡️ <b> Languages/Frameworks</b>
  </summary>
- <img src="https://wakatime.com/share/@savionascimento/1ee1a4b0-6057-4159-9fac-a7d1d53cca6d.svg" width="570"></img>  
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@savionascimento/686c747a-303a-4780-9dcc-857586b64935.png" /></a>
 </details>
 
 <details>
@@ -115,6 +113,7 @@
  <img src="https://wakatime.com/share/@savionascimento/a48325eb-f740-46c4-a723-10c841502510.svg" width="570"></img>  
 </details>
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@savionascimento/e6679c90-bb83-4129-b865-981255ea6a7f.png" /></a>
 
 ---
 ## 💻 System
@@ -123,6 +122,8 @@
 |![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)| ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)| ![Brave](https://img.shields.io/badge/Brave-FB542B?style=flat&logo=Brave&logoColor=white) ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=flat&logo=Vivaldi&logoColor=white) ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat&logo=GoogleChrome&logoColor=white) ![Mozilla](https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat&logo=Firefox&logoColor=white)
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=savionascimentodev&bg_color=000000&color=18e1fb&line=10aed5&point=1e79f1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## 🏆 Trophies 
 
@@ -130,7 +131,7 @@
 
 <hr>
 
-![Snake animation](https://github.com/savionascimentodev/savionascimentodev/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/savionascimentodev/savionascimentodev/blob/output/github-contribution-grid-snake.svg) -->
 
 
 <div align="center">
