@@ -121,7 +121,7 @@
 ## 💻 System
 | Code Editor  | S.O | Browsers
 ------------ | ------------ | ------------ 
-|![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)| ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)| ![Brave](https://img.shields.io/badge/Brave-FB542B?style=flat&logo=Brave&logoColor=white) ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=flat&logo=Vivaldi&logoColor=white) ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat&logo=GoogleChrome&logoColor=white) ![Mozilla](https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat&logo=Firefox&logoColor=white)
+|![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)| ![Ubuntu](https://img.shields.io/badge/Vivaldi-EF3939?style=flat&logo=Vivaldi&logoColor=white) ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat&logo=GoogleChrome&logoColor=white) ![Mozilla](https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat&logo=Firefox&logoColor=white)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=savionascimentodev&bg_color=000000&color=18e1fb&line=10aed5&point=1e79f1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
