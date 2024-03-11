@@ -14,7 +14,8 @@
 - 🏀 **Hobbies**: Read books and play Basketball 
 - 📚 Dedicated and hardworking boy, always looking to be learning new things and studying ways to solve problems.
 - 📖**Currently Studying**: ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB
-) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=flat&logo=expo&logoColor=white) ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![Figma](https://img.shields.io/badge/-Figma-060606?style=flat&logo=Figma) ![Node](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white) ![Shadcn](https://img.shields.io/badge/shadcn/ui-000000.svg?style=flatge&logo=Shadcn/Ui&logoColor=white)
+) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=flat&logo=expo&logoColor=white) ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![Figma](https://img.shields.io/badge/-Figma-060606?style=flat&logo=Figma) ![Node](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+ ![Shadcn](https://img.shields.io/badge/shadcn/ui-000000.svg?style=flatge&logo=Shadcn/Ui&logoColor=white)
 - 📖**Currently Working**: ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-060606?style=flat&logo=Figma) ![SQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB
 ) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 
@@ -90,7 +91,6 @@
 ![NuxtJs](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat&logo=nuxtdotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Graphql](https://img.shields.io/badge/GraphQl-E10098?style=flat&logo=graphql&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=falt&logo=Swagger&logoColor=white)
