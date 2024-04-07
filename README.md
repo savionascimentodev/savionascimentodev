@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B876FC&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello👋🏽,+my+name+is+Savio+Nascimento;I'm+22+years+old;I'm+from+Brazil,+MT;I+study+Software+Engineering+at+Unicesumar;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7CF5FB&size=35&center=true&vCenter=true&width=1000&lines=Hello👋🏽,+my+name+is+Savio+Nascimento;I'm+22+years+old;I'm+from+Brazil,+MT;I+study+Software+Engineering+at+Unicesumar;Welcome!+:%29)](https://git.io/typing-svg)
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=savionascimentodev"/> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=savionascimentodev&color=blueviolet"/> </p>
  
 ## ⚜️ A short presentation about me
 
@@ -96,8 +96,8 @@
 ## &#x1f4c8; GitHub Stats ⭐
 
 <div align="center">
- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=savionascimentodev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Savio Nascimento github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savionascimentodev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=savionascimentodev&show_icons=true&count_private=true&hide_border=true&title_color=B876FC&icon_color=7CF5FB&text_color=7CF5FB&bg_color=0d1117" alt="Savio Nascimento github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savionascimentodev&layout=compact&hide_border=true&title_color=B876FC&text_color=7CF5FB&bg_color=0d1117" />
  </div>
  
 ---
@@ -127,12 +127,12 @@
 |![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)| ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=flat&logo=Ubuntu&logoColor=white)| ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat&logo=GoogleChrome&logoColor=white) ![Mozilla](https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=Firefox&logoColor=white) ![Brave](https://img.shields.io/badge/Brave-FB542B.svg?style=flat&logo=Brave&logoColor=white)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=savionascimentodev&bg_color=000000&color=18e1fb&line=10aed5&point=1e79f1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=savionascimentodev&bg_color=000000&color=B876FC&line=7CF5FB&point=ae5be5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## 🏆 Trophies 
 
-![GithubTrophy](https://github-profile-trophy.vercel.app/?username=savionascimentodev&theme=algolia)
+![GithubTrophy](https://github-profile-trophy.vercel.app/?username=savionascimentodev&theme=dracula)
 
 <hr>
 
@@ -145,4 +145,4 @@
 [![Twitter Badge](https://img.shields.io/badge/@Nascimentoo-1ca0f1?style=flat&labelColor=05122A&logo=twitter&logoColor=1ca0f1&link=https://twitter.com/Nascimento_oo)](https://twitter.com/Nascimento_oo)
 [![Instagram Badge](https://img.shields.io/badge/-@SavioNascimento-f94877?style=flat&labelColor=05122A&logo=instagram&logoColor=f94877&link=https://https://www.instagram.com/savio_nascimento_/)](https://www.instagram.com/savio_nascimento_/)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B876FC&height=120&section=footer"/>
