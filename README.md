@@ -121,10 +121,10 @@
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@savionascimento/e6679c90-bb83-4129-b865-981255ea6a7f.png" /></a>
 
 ---
-## 💻 System
-| Code Editor  | S.O | Browsers
------------- | ------------ | ------------ 
-|![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)| ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=flat&logo=Ubuntu&logoColor=white)| ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat&logo=GoogleChrome&logoColor=white) ![Mozilla](https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=Firefox&logoColor=white) ![Brave](https://img.shields.io/badge/Brave-FB542B.svg?style=flat&logo=Brave&logoColor=white)
+## 💻 System 
+Notebook | Code Editor  | S.O | Browsers
+------------ | ------------ | ------------ | ------------ 
+![Dell](https://img.shields.io/badge/Dell-007DB8.svg?style=flat&logo=Dell&logoColor=white) ![Intel](https://img.shields.io/badge/Intel%20I7-0071C5.svg?style=flat&logo=Intel&logoColor=white) | ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)| ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=flat&logo=Ubuntu&logoColor=white)| ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat&logo=GoogleChrome&logoColor=white) ![Mozilla](https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=Firefox&logoColor=white) ![Brave](https://img.shields.io/badge/Brave-FB542B.svg?style=flat&logo=Brave&logoColor=white)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=savionascimentodev&bg_color=000000&color=B876FC&line=7CF5FB&point=ae5be5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
