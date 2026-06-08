@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B876FC&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7CF5FB&size=35&center=true&vCenter=true&width=1000&lines=Hello👋🏽,+my+name+is+Savio+Nascimento;I'm+22+years+old;I'm+from+Brazil,+MT;I+study+Software+Engineering+at+Unicesumar;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7CF5FB&size=35&center=true&vCenter=true&width=1000&lines=Hello👋🏽,+my+name+is+Savio+Nascimento;I'm+24+years+old;I'm+from+Brazil,+MT;I+study+Software+Engineering+at+Unicesumar;Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=savionascimentodev&color=blueviolet"/> </p>
  
@@ -8,7 +8,7 @@
 
 - 🔭 **Savio Ludovico Melo do Nascimento** 🇧🇷
 - 🎉 **17/10/2001**
-- 🎂 **22** years
+- 🎂 **24** years
 - 🎓 Studying **Software Engineering**
 - 🌱 I'm currently working as a junior Full Stack developer
 - 🏀 **Hobbies**: Read books and play Basketball 
