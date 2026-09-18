@@ -9,7 +9,8 @@
 - 🔭 **Savio Ludovico Melo do Nascimento** 🇧🇷
 - 🎉 **17/10/2001**
 - 🎂 **24** years
-- 🎓 Studying **Software Engineering**
+- 🎓 Degree in **Software Engineering**
+- 🎓 Graduating in **Administration**
 - 🌱 I'm currently working as a junior Full Stack developer
 - 🏀 **Hobbies**: Read books and play Basketball 
 - 📚 Dedicated and hardworking boy, always looking to be learning new things and studying ways to solve problems.
