@@ -103,7 +103,7 @@
  
 ---
 
-## &#x1f4c8; WakaTime Stats ⭐
+<!-- ## &#x1f4c8; WakaTime Stats ⭐
 
 <details>
  <summary>
@@ -120,7 +120,7 @@
 </details>
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@savionascimento/e6679c90-bb83-4129-b865-981255ea6a7f.png" /></a>
-
+-->
 ---
 ## 💻 System 
 Notebook | Code Editor  | S.O | Browsers
